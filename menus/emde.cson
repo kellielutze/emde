@@ -1,0 +1,30 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Evernote Markdown'
+      'submenu': [
+        {
+          'label': 'Send Selection to Evernote'
+          'command': 'emde:send-plain-text-selection'
+        },
+        {
+          'label': 'Send Selection as Code Snippet to Evernote'
+          'command': 'emde:send-code-snippet'
+        },
+        {
+          'label': 'Send Current File to Evernote'
+          'command': 'emde:send-current-file'
+        },
+        {
+          'label': 'Send Markdown Contents File to Evernote'
+          'command': 'emde:send-current-file-contents'
+        },
+        {
+          'label': 'Send Markdown File to Evernote'
+          'command': 'emde:send-markdown-file'
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "evernote-markdown-editor",
+  "version": "0.0.0",
+  "main": "./lib/emde",
+  "description": "Allows Evernote notes to be edited using Markdown from within Atom.",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+      "atom-message-panel" : "^1.2.7",
+      "temp" : "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "license": "MIT",
+  "consumedServices": {
+   "autoreload": {
+     "versions": {
+       "^0.0.1": "consumeAutoreload"
+     }
+   }
+ }
+}
