@@ -9,7 +9,7 @@ Inspiration is [ever-notedown](https://atom.io/packages/ever-notedown)
 
 It makes use of Evernote [ENScript](https://dev.evernote.com/doc/articles/enscript.php) command line functions.
 
-This project is not by any means complete and has been abandoned in favour of existing options available in other editors such as [VS Code](https://marketplace.visualstudio.com/items?itemName=rhapsodyn.vscode-evernote). As such you will find numerous TODOs throughout the code that represent the original planned changes. These are by no means the only method of achieving these ends but where purely the direction I had originally planned to take it.
+This project is not by any means complete and has been abandoned in favour of existing options available in other editors such as [VS Code](https://marketplace.visualstudio.com/items?itemName=rhapsodyn.vscode-evernote). As such you will find numerous TODOs throughout the code that represent the original planned changes. These are not the only method of achieving these ends but were purely the direction I had originally planned to take it.
 
 I have made this repository available for anyone who is interested in creating an Evernote plugin for Atom or has any use for the features currently implemented.
 
