@@ -1,5 +1,8 @@
 # evernote-markdown-editor (emde)
-This package enables the creating of Evernote notes in atom using Markdown.
+The aim of this package was to enable the creating of Evernote notes in Atom using markdown. It was original created as a proof of concept and to fix a specific problem that had otherwise not been solved, specifically for Windows. 
+
+The original aim was to achieve this completely offline and without use of the Evernote API. 
+
 It only supports Windows at this time.
 
 Inspiration is [ever-notedown](https://atom.io/packages/ever-notedown)
