@@ -1,4 +1,4 @@
-# Evernote-markdown-editor (emde)
+# evernote-markdown-editor (emde)
 This package enables the creating of Evernote notes in atom using Markdown.
 It only supports Windows at this time.
 
